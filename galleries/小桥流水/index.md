@@ -1,5 +1,5 @@
 ---
-title: 小桥流水人家
+title: 小桥流水
 type: "gallery"
 layout: "gallery"
 ---
